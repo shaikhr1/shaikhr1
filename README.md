@@ -16,3 +16,4 @@
     - [This KQL query retrieve information about the most common processes running on your machines in the last 7 days](https://github.com/shaikhr1/common-processes-)
 - <b>Zscaler</b>
     - [ Zscaler API to retrieve information about the security status of a website](https://github.com/shaikhr1/zscaler-api-demo)
+    - [PowerShell Script to Install Zscaler Client Connector on Windows Host](https://github.com/shaikhr1/ZCC-Install)
