@@ -5,7 +5,9 @@
 - <b>PowerShell</b>
     - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/shaikhr1/ADBulkuserCreationPS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)](https://github.com/shaikhr1/File-Integrity-Monitor)
+  - [Script to Sanitize IOC IP Address List provided by Security Vebdor](https://github.com/shaikhr1/Sanitized-IOC-IP-List-)
+    
 - <b>Microsoft Sentinel</b>
  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/shaikhr1/Failed-RDP-to-IP-Geolocation-Information)
 - <b>Zscaler</b>
