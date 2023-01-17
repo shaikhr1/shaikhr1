@@ -4,6 +4,7 @@
 
 - <b>PowerShell</b>
     - [How to Run PowerShell Script](https://github.com/shaikhr1/How-to-Run-PowerShell-Scripts)
+    - [Script to retrieve DNS suffix information from Host registery and give options to delete them](https://github.com/shaikhr1/dns-suffix-retireval-script)
     - [JWipe (Disk Wiping Utility)](https://github.com/shaikhr1/JWipe-Disk-Sanitization)
     - [Active Directory Bulk User Creation](https://github.com/shaikhr1/ADBulkuserCreationPS)
     - [FIM (File Integrity Monitor)](https://github.com/shaikhr1/File-Integrity-Monitor)
