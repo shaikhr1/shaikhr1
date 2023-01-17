@@ -7,5 +7,5 @@
   - [Active Directory Bulk User Creation](https://github.com/shaikhr1/ADBulkuserCreationPS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Microsoft Sentinel</b>
- - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+ - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/shaikhr1/Failed-RDP-to-IP-Geolocation-Information)
 - <b>Zscaler</b>
