@@ -12,5 +12,6 @@
     
 - <b>Microsoft Sentinel</b>
     - [This KQL query retrieves the last 10 alerts generated within the last 7 days.](https://github.com/shaikhr1/alerts_query.kql)
+    - [This KQL query retrieve information about the most common processes running on your machines in the last 7 days](https://github.com/shaikhr1/common-processes-)
 - <b>Zscaler</b>
     - [ Zscaler API to retrieve information about the security status of a website](https://github.com/shaikhr1/zscaler-api-demo)
