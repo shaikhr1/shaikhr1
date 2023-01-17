@@ -17,3 +17,4 @@
 - <b>Zscaler</b>
     - [ Zscaler API to retrieve information about the security status of a website](https://github.com/shaikhr1/zscaler-api-demo)
     - [PowerShell Script to Install Zscaler Client Connector on Windows Host](https://github.com/shaikhr1/ZCC-Install)
+    - [PowerShell Script to Install and Configure Zscaler Client Connector on Windows Host](https://github.com/shaikhr1/ZCC-Configure-and-Install)
