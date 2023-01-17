@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
+    - [How to Run PowerShell Script](https://github.com/shaikhr1/How-to-Run-PowerShell-Scripts)
     - [JWipe (Disk Wiping Utility)](https://github.com/shaikhr1/JWipe-Disk-Sanitization)
     - [Active Directory Bulk User Creation](https://github.com/shaikhr1/ADBulkuserCreationPS)
     - [FIM (File Integrity Monitor)](https://github.com/shaikhr1/File-Integrity-Monitor)
