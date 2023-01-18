@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
-    - [How to Run PowerShell Script](https://github.com/shaikhr1/How-to-Run-PowerShell-Scripts-)
+    - [How to Run PowerShell Script](https://github.com/shaikhr1/How-to-Run-PowerShell-Scripts)
     - [DNS suffix Wiping Utility](https://github.com/shaikhr1/dns-suffix-retireval-script)
     - [JWipe (Disk Wiping Utility)](https://github.com/shaikhr1/JWipe-Disk-Sanitization)
     - [Active Directory Bulk User Creation](https://github.com/shaikhr1/ADBulkuserCreationPS)
