@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
-    - [How to Run PowerShell Script](https://github.com/shaikhr1/How-to-Run-PowerShell-Scripts)
+    - [How to Run PowerShell Script](https://github.com/shaikhr1/How-to-Run-PowerShell-Scripts-)
     - [DNS suffix Wiping Utility](https://github.com/shaikhr1/dns-suffix-retireval-script)
     - [JWipe (Disk Wiping Utility)](https://github.com/shaikhr1/JWipe-Disk-Sanitization)
     - [Active Directory Bulk User Creation](https://github.com/shaikhr1/ADBulkuserCreationPS)
@@ -12,7 +12,7 @@
     - [Forensic Image Creation on Windows 10 PC](https://github.com/shaikhr1/Forensic-Image-Creation)
     
 - <b>Microsoft Sentinel</b>
-    - [This KQL query retrieves the last 10 alerts generated within the last 7 days.](https://github.com/shaikhr1/alerts_query.kql)
+    - [This KQL query retrieves the last 10 alerts generated within the last 7 days](https://github.com/shaikhr1/alerts_query.kql)
     - [This KQL query retrieve information about the most common processes running on your machines in the last 7 days](https://github.com/shaikhr1/common-processes-)
 - <b>Zscaler</b>
     - [ Zscaler API to retrieve information about the security status of a website](https://github.com/shaikhr1/zscaler-api-demo)
